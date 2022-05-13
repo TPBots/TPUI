@@ -1,4 +1,4 @@
-class AudioPlayer {
+class TPAudioPlayer {
     render(){
         `
         <audio controls>
